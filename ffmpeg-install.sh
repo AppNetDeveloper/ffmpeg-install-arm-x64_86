@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Clonar el repositorio de fdk-aac
 git clone https://github.com/mstorsjo/fdk-aac && \
